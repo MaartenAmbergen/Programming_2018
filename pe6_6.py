@@ -1,0 +1,1 @@
+def wijzig(letterlijst):
