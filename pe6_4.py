@@ -20,4 +20,4 @@ def new_password(oldpassword, newpassword):
         print("dit password voldoet aan de eisen")
         return True
 
-new_password()
+new_password("test33", "Test233")
