@@ -1,0 +1,4 @@
+jan;9.0
+jaap;9.2
+willem;8.5
+maarten;10.0
